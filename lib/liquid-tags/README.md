@@ -44,4 +44,6 @@ renderContent.liquid.registerTag('my_tag', require('./liquid-tags/my-tag'))
 
 ## Further reading
 
-- Liquid Docs: https://github.com/liquid-lang/liquid-node#registering-new-tags
+- Liquid Docs: https://github.jcom/liquid-lang/liquid-node#registering-new-tags
+/*
+
